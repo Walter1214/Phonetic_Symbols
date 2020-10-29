@@ -28,9 +28,6 @@ function Phonetic(props) {
       setCounter(() => counter + 1);
       retsetRoundCount();
       setRoundIsStart(true);
-
-      console.log(phonetic);
-      console.log("phonetic", counter, phonetic[counter]);
     } else {
       alert("注音用完");
     }
@@ -39,7 +36,7 @@ function Phonetic(props) {
     setPhonetic(shuffle(topicIndex.phonetic));
     setCounter(-1);
     setRoundIsStart(false);
-    setRoundCount(16);
+    setRoundCount(15);
     console.log("phonetic", phonetic);
     return () => {};
   }, [topicIndex]);

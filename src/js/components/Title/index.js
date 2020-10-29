@@ -13,12 +13,12 @@ function Title(props) {
     <div className={styles.title}>
       <button onClick={randomTopic}>抽題目</button>
       <div className={styles.topic}>
-        <label className={styles["topic-label"]}>題目一：</label>
+        <label className={styles["topic-label"]}>題示一：</label>
         <span className={styles["topic-name"]}>{topicIndex.title[0]}</span>
       </div>
 
       <div className={styles.topic}>
-        <label className={styles["topic-label"]}>題目二：</label>
+        <label className={styles["topic-label"]}>題示二：</label>
         <span className={styles["topic-name"]}>{topicIndex.title[1]}</span>
       </div>
     </div>

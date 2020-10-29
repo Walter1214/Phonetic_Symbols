@@ -14,8 +14,7 @@ function App() {
   return (
     <>
       <Switch>
-        <Route strict sensitive path="/home" component={Home} />
-        <Redirect push from="/" to="/home" />
+        <Route strict sensitive path="/" component={Home} />
       </Switch>
     </>
   );

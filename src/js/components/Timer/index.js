@@ -16,10 +16,12 @@ function Timer(props) {
         <div className={styles["timer-round-time__title"]}>Round Time：</div>
         <div className={styles["timer-round-time__count"]}>{count}</div>
       </div>
-      <div className={styles["timer-game-time"]}>
-        <div className={styles["timer-game-time__title"]}>Game Time：</div>
-        <div></div>
-      </div>
+      {
+        // <div className={styles["timer-game-time"]}>
+        //   <div className={styles["timer-game-time__title"]}>Game Time：</div>
+        //   <div></div>
+        // </div>
+      }
     </div>
   );
 }
