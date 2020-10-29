@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Phonetic_Symbols/static/css/main.1d24bce3.chunk.css",
+    "main.js": "/Phonetic_Symbols/static/js/main.0bc1dd8e.chunk.js",
+    "main.js.map": "/Phonetic_Symbols/static/js/main.0bc1dd8e.chunk.js.map",
+    "runtime-main.js": "/Phonetic_Symbols/static/js/runtime-main.1976d290.js",
+    "runtime-main.js.map": "/Phonetic_Symbols/static/js/runtime-main.1976d290.js.map",
+    "static/js/2.245710f5.chunk.js": "/Phonetic_Symbols/static/js/2.245710f5.chunk.js",
+    "static/js/2.245710f5.chunk.js.map": "/Phonetic_Symbols/static/js/2.245710f5.chunk.js.map",
+    "static/css/3.96cb01f0.chunk.css": "/Phonetic_Symbols/static/css/3.96cb01f0.chunk.css",
+    "static/js/3.feac8152.chunk.js": "/Phonetic_Symbols/static/js/3.feac8152.chunk.js",
+    "static/js/3.feac8152.chunk.js.map": "/Phonetic_Symbols/static/js/3.feac8152.chunk.js.map",
+    "static/js/4.74b2ee03.chunk.js": "/Phonetic_Symbols/static/js/4.74b2ee03.chunk.js",
+    "static/js/4.74b2ee03.chunk.js.map": "/Phonetic_Symbols/static/js/4.74b2ee03.chunk.js.map",
+    "index.html": "/Phonetic_Symbols/index.html",
+    "precache-manifest.72b912c60787c0fed9c5cf287e6fc846.js": "/Phonetic_Symbols/precache-manifest.72b912c60787c0fed9c5cf287e6fc846.js",
+    "service-worker.js": "/Phonetic_Symbols/service-worker.js",
+    "static/css/3.96cb01f0.chunk.css.map": "/Phonetic_Symbols/static/css/3.96cb01f0.chunk.css.map",
+    "static/css/main.1d24bce3.chunk.css.map": "/Phonetic_Symbols/static/css/main.1d24bce3.chunk.css.map",
+    "static/js/2.245710f5.chunk.js.LICENSE.txt": "/Phonetic_Symbols/static/js/2.245710f5.chunk.js.LICENSE.txt",
+    "static/js/4.74b2ee03.chunk.js.LICENSE.txt": "/Phonetic_Symbols/static/js/4.74b2ee03.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1976d290.js",
+    "static/js/2.245710f5.chunk.js",
+    "static/css/main.1d24bce3.chunk.css",
+    "static/js/main.0bc1dd8e.chunk.js"
+  ]
+}
