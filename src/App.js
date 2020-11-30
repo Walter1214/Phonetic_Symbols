@@ -14,7 +14,8 @@ function App() {
   return (
     <>
       <Switch>
-        <Route strict sensitive path="/" component={Home} />
+        <Route strict sensitive path="/Phonetic_Symbols" component={Home} />
+        <Redirect push from="/" to="/Phonetic_Symbols" />
       </Switch>
     </>
   );
